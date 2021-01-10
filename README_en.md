@@ -3,7 +3,7 @@
 ## Features
 
 Asks for a user's name and starts Minetest and Mumble, establishing a connection to a given Murmur server for audio chat.
-Useful to package for students. Config file lets user change the details of the murmur server to connect to.
+Could be used as a useful package for students. Config file lets user change the details of the murmur server to connect to.
 
 ## Requirements
 
