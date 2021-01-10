@@ -33,7 +33,7 @@ Finally, we need *msvcp1xx.dll* and *msvcr1xx.dll* from your system32 folder. Us
 ### 3. Install Minetest Mumble Wrapper
 Follow installation instruction from their repo or use the [https://github.com/Elkien3/minetest-mumble-wrapper/releases/](minetest.mumble-helpers.zip) from their releases to have the mod and wrapper set up automatically. Just extract the helpers into your minetest directory and run `autoinstall.bat`
 
-### 4. Put the remaining files from this repo into your minetest folder and adjust *minetest_paket_config.txt* with your server values.
+### 4. Put the remaining files from this repo into your minetest folder and adjust *minetest_paket_config.txt* with your murmur server values.
 *minetest.conf* from this repo comes with useful settings so you can just replace the file.
 
 ## Changelog
