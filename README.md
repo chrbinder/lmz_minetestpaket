@@ -28,7 +28,7 @@ Installiere Mumble mit dem offiziellen Setup in den `/bin/mumble`-Unterordner de
 Kopiere als nächstes die *mumble.ini* aus diesem Repo nach `/bin/mumble`.
 Als letztes benötigen wir die *msvcp1xx.dll* und die *msvcr1xx.dll* aus dem system32-Ordner. Benutzt `Win+R`, gib `%WINDIR%\system32`ein und kopiere die beiden DLL-Dateien nach `/bin/mumble` innerhalb deines Minetest-Verzeichnisses.
 
-  Auf [https://wiki.natenom.de/mumble/anleitungen/portable/windows](Natenom.de) gibt es einen praktischen Guide, der die Erstellung einer portablen Mumble-Version detaillierter erklärt.
+  Auf [https://wiki.natenom.de/mumble/anleitungen/portable/windows](Natenom.de) gibt es einen praktischen Guide, der das Erstellen einer portablen Mumble-Version detaillierter erklärt.
 
 ### 4.  Minetest Mumble Wrapper installieren
 
