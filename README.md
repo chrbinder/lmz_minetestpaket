@@ -28,11 +28,11 @@ Installiere Mumble mit dem offiziellen Setup in den `/bin/mumble`-Unterordner de
 Kopiere als nächstes die *mumble.ini* aus diesem Repo nach `/bin/mumble`.
 Als letztes benötigen wir die *msvcp1xx.dll* und die *msvcr1xx.dll* aus dem system32-Ordner. Benutzt `Win+R`, gib `%WINDIR%\system32`ein und kopiere die beiden DLL-Dateien nach `/bin/mumble` innerhalb deines Minetest-Verzeichnisses.
 
-  Auf [https://wiki.natenom.de/mumble/anleitungen/portable/windows](Natenom.de) gibt es einen praktischen Guide, der das Erstellen einer portablen Mumble-Version detaillierter erklärt.
+  Auf [Natenom.de](https://wiki.natenom.de/mumble/anleitungen/portable/windows) gibt es einen praktischen Guide, der das Erstellen einer portablen Mumble-Version detaillierter erklärt.
 
 ### 4.  Minetest Mumble Wrapper installieren
 
-Folge den Anweisungen des Mintest-Mumble-Wrapper Repos oder nutzen die [https://github.com/Elkien3/minetest-mumble-wrapper/releases/](minetest.mumble-helpers.zip) aus den releases, um den Wrapper automatisch installieren zu lassen. Dazu einfach die *helpers* in das Minetest-Verzeichnis extrahieren und `autoinstall.bat` ausführen.
+Folge den Anweisungen des Mintest-Mumble-Wrapper Repos oder nutzen die [minetest.mumble-helpers.zip][https://github.com/Elkien3/minetest-mumble-wrapper/releases/] aus den releases, um den Wrapper automatisch installieren zu lassen. Dazu einfach die *helpers* in das Minetest-Verzeichnis extrahieren und `autoinstall.bat` ausführen.
 
 ### 5. Kopiere die restlichen Dateien aus diesem Repo in den Minetest-Ordner und passe die *minetest_paket_config.txt* mit deinen Murmur-Serverdetails an.
 Die *minetest.conf* aus diesem Repo ist bereits mit praktischen Werten voreingestellt. Diese kannst du über die Originaldatei kopieren.
