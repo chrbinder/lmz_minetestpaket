@@ -19,7 +19,7 @@ Useful to package for students. Config file lets user change the details of the 
 ## Set-up
 
 1. put Mumble into /bin folder of Minetest installation *todo*
-..* portable install of Minetest is recommended, be sure to put it into C:/Games, Desktop, Downloads rather than C:/Programs
+  * portable install of Minetest is recommended, be sure to put it into C:/Games, Desktop, Downloads rather than C:/Programs
 2. Install Audio CSM *todo*
 3. download current release, put into minetest folder and edit minetest_paket_config.txt
 
