@@ -34,7 +34,7 @@ Als letztes benötigen wir die *msvcp1xx.dll* und die *msvcr1xx.dll* aus dem sys
 
 Folge den Anweisungen des Mintest-Mumble-Wrapper Repos oder nutzen die [https://github.com/Elkien3/minetest-mumble-wrapper/releases/](minetest.mumble-helpers.zip) aus den releases, um den Wrapper automatisch installieren zu lassen. Dazu einfach die *helpers* in das Minetest-Verzeichnis extrahieren und `autoinstall.bat` ausführen.
 
-### 5. Kopiere die restlichen Dateien aus diesem Repo in den Minetest-Ordner und passe die *minetest_paket_config.txt* mit deinen Serverdetails an.
+### 5. Kopiere die restlichen Dateien aus diesem Repo in den Minetest-Ordner und passe die *minetest_paket_config.txt* mit deinen Murmur-Serverdetails an.
 Die *minetest.conf* aus diesem Repo ist bereits mit praktischen Werten voreingestellt. Diese kannst du über die Originaldatei kopieren.
 
 ## Changelog
