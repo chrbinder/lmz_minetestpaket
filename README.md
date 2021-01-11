@@ -1,22 +1,22 @@
 # Minetest-Paket (lmz_minetestpaket)
 
-## Features
+## ✨ Features
 
 Fragt nach Benutzernamen und startet dann Minetest und Mumble, welches sich für Audiochat mit einer Murmur-Server-Instanz verbindet.
 Kann praktisch als Paket zum Verteilen an Schüler/-innen benutzt werden. Das Konfigfile `minetest_paket_config.txt` lässt eigene Verbindungsdetails zu.
 
-## Voraussetzungen
+## ✅ Voraussetzungen
 
 * Windows (einziges derzeit unterstütztes OS)
 * Murmur-Server-Instanz für die Verbindung zum Audiochat
 
-## Dependencies
+## ⧉ Dependencies
 
 * [Minetest](https://www.minetest.net/)
 * [minetest-mumble-wrapper by Elkien3](https://github.com/Elkien3/minetest-mumble-wrapper)
 * [Mumble](https://www.mumble.info/)
 
-## Set-up
+## 📦 Set-up
 
 ### 1. Lade dieses Repo herunter
 
@@ -37,5 +37,5 @@ Folge den Anweisungen des Mintest-Mumble-Wrapper Repos oder nutzen die [minetest
 ### 5. Kopiere die restlichen Dateien aus diesem Repo in den Minetest-Ordner und passe die *minetest_paket_config.txt* mit deinen Murmur-Serverdetails an.
 Die *minetest.conf* aus diesem Repo ist bereits mit praktischen Werten voreingestellt. Diese kannst du über die Originaldatei kopieren.
 
-## Changelog
+## 💌 Changelog
 (2021-01-10) v.3 - Konfig-Datei hinzugefügt
