@@ -1,22 +1,22 @@
 # Minetest-Paket (lmz_minetestpaket)
 
-## Features
+## ✨ Features
 
 Asks for a user's name and starts Minetest and Mumble, establishing a connection to a given Murmur server for audio chat.
 Could be used as a useful package for students. Config file lets user change the details of the murmur server to connect to.
 
-## Requirements
+## ✅ Requirements
 
 * Windows (only OS currently supported)
 * Murmur server instance to connect to
 
-## Dependencies
+## ⧉ Dependencies
 
 * [Minetest](https://www.minetest.net/)
 * [minetest-mumble-wrapper by Elkien3](https://github.com/Elkien3/minetest-mumble-wrapper)
 * [Mumble](https://www.mumble.info/)
 
-## Set-up
+## 📦 Set-up
 
 ### 1. Download this repo
 
